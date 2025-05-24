@@ -95,16 +95,16 @@ Loan-Default-Risk-Analysis/
 ├── .gitignore
 │
 ├── docs/
-│ └── Loan_Default_Executive_Summary.docx
+│   └── Loan_Default_Executive_Summary.docx
 │
 ├── presentation/
-│ └── Loan_Default_PPT.pdf
+│   └── Loan_Default_PPT.pdf
 │
 ├── notebooks/
-│ └── Loan_Default_code.ipynb
+│   └── Loan_Default_code.ipynb
 │
 └── data/
-└── dataset
+    └── dataset/
 
 
 ---
