@@ -89,7 +89,7 @@ We followed the **CRISP-DM** process:
 ---
 
 ## 📁 Project Structure
-```text
+<pre>
 Loan-Default-Risk-Analysis/
 │
 ├── README.md
@@ -106,8 +106,9 @@ Loan-Default-Risk-Analysis/
 │
 └── data/
     └── dataset/
+</pre>
 
-...
+
 
 ---
 
